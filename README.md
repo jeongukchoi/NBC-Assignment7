@@ -28,6 +28,9 @@
   - IMC 및 Input Action 변수 선언
   - BeginPlay 에서 Enhanced Input Local Player Subsystem 에 IMC 등록
   - 에디터에서 블루프린트로 감싸고 IMC 및 IA 변수에 실제 에셋 지정
+
+- GameMode
+  - 디폴트 폰 / 플레이어 컨트롤러 설정
  
 ### 도전
 (비행 구현에 있어 GTA 의 헬기 조종 방식 및 원리를 참고함)
